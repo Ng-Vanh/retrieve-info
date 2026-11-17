@@ -1,0 +1,25 @@
+# Danh sách Seed URLs phục vụ thu thập URL hệ thống Đại học Bách khoa Hà Nội
+# Mỗi dòng một URL. Dòng bắt đầu bằng # sẽ được bỏ qua.
+
+# 1. Cổng thông tin chính & học vụ
+https://hust.edu.vn
+https://ctt.hust.edu.vn
+https://ts.hust.edu.vn
+https://ctsv.hust.edu.vn
+https://clc.hust.edu.vn
+https://library.hust.edu.vn
+
+# 2. Các Trường & Khoa đào tạo
+https://soict.hust.edu.vn
+https://seee.hust.edu.vn
+https://sme.hust.edu.vn
+https://scls.hust.edu.vn
+https://smse.hust.edu.vn
+https://sem.hust.edu.vn
+https://fami.hust.edu.vn
+https://sep.hust.edu.vn
+https://sofl.hust.edu.vn
+https://fpt.hust.edu.vn
+https://congnghegiaoduc.hust.edu.vn
+https://gdqp.hust.edu.vn
+https://gdtc.hust.edu.vn
